@@ -4,6 +4,8 @@ Both companies emphasize picking the right reviewer and making sure they don't e
 The Microsoft code review focuses more on not taking any changes personally. Yelp states that code reviews should have a primary reviewer.
 
 2. Find an example of a "good" code review. Provide a link to the review and explain why you found the review beneficial.
+https://codereview.stackexchange.com/questions/290967/beginner-rust-todo-app. The review broke down the user's request in multiple, easy to read parts, that explained the reviewers understanding.
+Before giving a fixed code snippet, the reviewer wrote and explained every change. They even gave further ideas for the user to implemment.
 
 
 3. Find an example of a "bad" code review. Provide a link to the review and briefly explain why you found the review not beneficial. In addition, include recommendations for improvement to the review feedback.
