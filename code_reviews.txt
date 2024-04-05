@@ -7,3 +7,5 @@ The Microsoft code review focuses more on not taking any changes personally. Yel
 
 
 3. Find an example of a "bad" code review. Provide a link to the review and briefly explain why you found the review not beneficial. In addition, include recommendations for improvement to the review feedback.
+https://codereview.stackexchange.com/questions/291356/is-this-a-correct-implementation-of-comparator
+In the top voted answer for this question, the reviewer states that the person who asked the question shouldn't do create custom code and their mutation is too high before just giving the answer to them. They do not provide any reasoning behind their recommendations or any comments explaining the code.
